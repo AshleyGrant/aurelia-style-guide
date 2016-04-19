@@ -1,0 +1,2 @@
+# Aurelia Style Guide
+The Aurelia Style Guide serves as a best-practices guide for developing applications using the Aurelia Framework. It is not definitive, and should be considered a *guide*, not a set of commandments.
